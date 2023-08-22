@@ -1,0 +1,14 @@
+C:\Users\emanu\Desktop\C# recursividade\bin\Debug\net7.0\C# recursividade.exe
+C:\Users\emanu\Desktop\C# recursividade\bin\Debug\net7.0\C# recursividade.deps.json
+C:\Users\emanu\Desktop\C# recursividade\bin\Debug\net7.0\C# recursividade.runtimeconfig.json
+C:\Users\emanu\Desktop\C# recursividade\bin\Debug\net7.0\C# recursividade.dll
+C:\Users\emanu\Desktop\C# recursividade\bin\Debug\net7.0\C# recursividade.pdb
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\C# recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\C# recursividade.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\C# recursividade.AssemblyInfo.cs
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\C# recursividade.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\C# recursividade.dll
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\refint\C# recursividade.dll
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\C# recursividade.pdb
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\C# recursividade.genruntimeconfig.cache
+C:\Users\emanu\Desktop\C# recursividade\obj\Debug\net7.0\ref\C# recursividade.dll
